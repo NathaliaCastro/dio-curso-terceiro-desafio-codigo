@@ -1,0 +1,14 @@
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\bin\Debug\net8.0\DesafioDeCodigo.exe
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\bin\Debug\net8.0\DesafioDeCodigo.deps.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\bin\Debug\net8.0\DesafioDeCodigo.runtimeconfig.json
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\bin\Debug\net8.0\DesafioDeCodigo.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\bin\Debug\net8.0\DesafioDeCodigo.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.AssemblyInfoInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.AssemblyInfo.cs
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\refint\DesafioDeCodigo.dll
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.pdb
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\DesafioDeCodigo.genruntimeconfig.cache
+C:\Users\Nathalia Gabriele\Desktop\.Net Developer\(4) Video Aulas - POO .NET\DesafioDeCodigo\obj\Debug\net8.0\ref\DesafioDeCodigo.dll
