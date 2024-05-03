@@ -18,7 +18,7 @@ O objetivo desse curso é ensinar brevemente os seguintes tópicos:
 
 🔒 Desenvolvimento Orientado a Testes 
 
-# 📚 Cronograma de Aprendizado - Tópico 1
+# 📚 Cronograma de Aprendizado - Tópico 3
 
 | Aula | Tema |
 |------|------|
