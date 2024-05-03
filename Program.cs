@@ -1,5 +1,7 @@
 ﻿using DesafioDeCodigo.Models;
 
+// ----------------- Desafio das Cartas -----------------
+
 // Input para escolher a carta desejada
 int valorEscolhido, naipeEscolhido;
 
@@ -94,7 +96,7 @@ Console.WriteLine($"Você escolheu a carta {nomeValor} de {nomeNaipe}");
 
 
 
-
+// ----------------- Desafio do Robô -----------------
 
 // string nome;
 // string modelo;
@@ -145,7 +147,7 @@ Console.WriteLine($"Você escolheu a carta {nomeValor} de {nomeNaipe}");
 
 
 
-
+// ----------------- Desafio do Item mágico -----------------
 
 // Console.WriteLine("Informe o nome do item: ");
 // string nome = Console.ReadLine();
